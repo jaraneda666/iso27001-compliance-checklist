@@ -1,0 +1,94 @@
+control_id,control_name,theme,status,owner,evidence_notes,controlstack_guide_url
+A.5.1,Policies for information security,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-1-policies-for-information-security/
+A.5.2,Defining information security roles and responsibilities,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-2-defining-information-security-roles-and-responsibi/
+A.5.3,Segregation of duties,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-3-segregation-of-duties/
+A.5.4,Management responsibilities for information security,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-4-management-responsibilities-for-information-securi/
+A.5.5,Establish and maintain contact with authorities,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-5-establish-and-maintain-contact-with-authorities/
+A.5.6,Contact with special interest groups,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-6-contact-with-special-interest-groups/
+A.5.7,Threat intelligence collection and analysis,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-7-threat-intelligence-collection-and-analysis/
+A.5.8,Information security in project management,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-8-information-security-in-project-management/
+A.5.9,Inventory management of information and associated assets,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-9-inventory-management-of-information-and-associated/
+A.5.10,Acceptable use policies for information and assets,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-10-acceptable-use-policies-for-information-and-assets/
+A.5.11,Return of organisation's assets upon departure,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-11-return-of-organisations-assets-upon-departure/
+A.5.12,Information classification policy and practices,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-12-information-classification-policy-and-practices/
+A.5.13,Labelling of information,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-13-labelling-of-information/
+A.5.14,Information transfer policies and procedures,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-14-information-transfer-policies-and-procedures/
+A.5.15,Access control policies and procedures,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-15-access-control-policies-and-procedures/
+A.5.16,Identity life cycle management,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-16-identity-life-cycle-management/
+A.5.17,Management of authentication information,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-17-management-of-authentication-information/
+A.5.18,Managing access rights to information assets,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-18-managing-access-rights-to-information-assets/
+A.5.19,Managing information security in supplier relationships,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-19-managing-information-security-in-supplier-relation/
+A.5.20,Integrating security clauses in supplier agreements,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-20-integrating-security-clauses-in-supplier-agreement/
+A.5.21,Managing information security in the ICT supply chain,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-21-managing-information-security-in-the-ict-supply-ch/
+A.5.22,Monitoring and managing supplier services,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-22-monitoring-and-managing-supplier-services/
+A.5.23,Cloud service security management,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-23-cloud-service-security-management/
+A.5.24,Information security incident management planning and preparation,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-24-information-security-incident-management-planning/
+A.5.25,Assessment and decision on information security events,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-25-assessment-and-decision-on-information-security-ev/
+A.5.26,Response to information security incidents,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-26-response-to-information-security-incidents/
+A.5.27,Learning from information security incidents,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-27-learning-from-information-security-incidents/
+A.5.28,Procedures for collecting and preserving evidence,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-28-procedures-for-collecting-and-preserving-evidence/
+A.5.29,Maintain information security during disruptions,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-29-maintain-information-security-during-disruptions/
+A.5.30,ICT readiness for business continuity,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-30-ict-readiness-for-business-continuity/
+A.5.31,Compliance with information security legal requirements,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-31-compliance-with-information-security-legal-require/
+A.5.32,Intellectual property rights protection,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-32-intellectual-property-rights-protection/
+A.5.33,Protection of records,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-33-protection-of-records/
+A.5.34,Privacy and protection of personally identifiable information,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-34-privacy-and-protection-of-personally-identifiable/
+A.5.35,Independent review of information security,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-35-independent-review-of-information-security/
+A.5.36,Review compliance with information security policies,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-36-review-compliance-with-information-security-polici/
+A.5.37,Documented operating procedures for information processing,Organisational,,,,https://controlstack.au/controls/iso27001-annex-a-5-37-documented-operating-procedures-for-information-pr/
+A.6.1,Personnel background verification,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-1-personnel-background-verification/
+A.6.2,Terms and conditions of employment for security,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-2-terms-and-conditions-of-employment-for-security/
+A.6.3,"Information security awareness, education and training program",People,,,,https://controlstack.au/controls/iso27001-annex-a-6-3-information-security-awareness-education-and-train/
+A.6.4,Disciplinary process for information security violations,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-4-disciplinary-process-for-information-security-viol/
+A.6.5,Responsibilities after employment termination or role change,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-5-responsibilities-after-employment-termination-or-r/
+A.6.6,Confidentiality and non-disclosure agreements,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-6-confidentiality-and-non-disclosure-agreements/
+A.6.7,Remote working security measures,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-7-remote-working-security-measures/
+A.6.8,Mechanisms for reporting security events,People,,,,https://controlstack.au/controls/iso27001-annex-a-6-8-mechanisms-for-reporting-security-events/
+A.7.1,Physical security perimeters,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-1-physical-security-perimeters/
+A.7.2,Physical access controls for secure areas,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-2-physical-access-controls-for-secure-areas/
+A.7.3,Physical security for offices and facilities,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-3-physical-security-for-offices-and-facilities/
+A.7.4,Continuous monitoring of physical access to premises,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-4-continuous-monitoring-of-physical-access-to-premis/
+A.7.5,Protecting against physical and environmental threats,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-5-protecting-against-physical-and-environmental-thre/
+A.7.6,Security measures for working in secure areas,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-6-security-measures-for-working-in-secure-areas/
+A.7.7,Clear desk and clear screen policies,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-7-clear-desk-and-clear-screen-policies/
+A.7.8,Equipment siting and protection,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-8-equipment-siting-and-protection/
+A.7.9,Security of off-site assets,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-9-security-of-off-site-assets/
+A.7.10,Secure management of storage media,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-10-secure-management-of-storage-media/
+A.7.11,Protection from utility failures,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-11-protection-from-utility-failures/
+A.7.12,Secure cabling for power and data,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-12-secure-cabling-for-power-and-data/
+A.7.13,Proper maintenance of equipment,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-13-proper-maintenance-of-equipment/
+A.7.14,Secure disposal or re-use of equipment,Physical,,,,https://controlstack.au/controls/iso27001-annex-a-7-14-secure-disposal-or-re-use-of-equipment/
+A.8.1,Protection of user endpoint devices,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-1-protection-of-user-endpoint-devices/
+A.8.2,Management of privileged access rights,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-2-management-of-privileged-access-rights/
+A.8.3,Restrict access to information and assets,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-3-restrict-access-to-information-and-assets/
+A.8.4,Access management for source code and tools,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-4-access-management-for-source-code-and-tools/
+A.8.5,Secure authentication technologies and procedures,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-5-secure-authentication-technologies-and-procedures/
+A.8.6,Capacity management for resource use,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-6-capacity-management-for-resource-use/
+A.8.7,Protection against malware,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-7-protection-against-malware/
+A.8.8,Management of technical vulnerabilities,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-8-management-of-technical-vulnerabilities/
+A.8.9,Configuration management for secure IT systems,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-9-configuration-management-for-secure-it-systems/
+A.8.10,Secure deletion of information when no longer needed,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-10-secure-deletion-of-information-when-no-longer-need/
+A.8.11,Data masking for sensitive information,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-11-data-masking-for-sensitive-information/
+A.8.12,Data leakage prevention measures,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-12-data-leakage-prevention-measures/
+A.8.13,Backup and recovery procedures for data,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-13-backup-and-recovery-procedures-for-data/
+A.8.14,Redundancy of information processing facilities,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-14-redundancy-of-information-processing-facilities/
+A.8.15,Logging of activities and events,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-15-logging-of-activities-and-events/
+A.8.16,Monitoring networks and systems for anomalous behaviour,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-16-monitoring-networks-and-systems-for-anomalous-beha/
+A.8.17,Clock synchronisation for information systems,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-17-clock-synchronisation-for-information-systems/
+A.8.18,Use of privileged utility programs,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-18-use-of-privileged-utility-programs/
+A.8.19,Secure software installation procedures,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-19-secure-software-installation-procedures/
+A.8.20,Network and network devices security,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-20-network-and-network-devices-security/
+A.8.21,Security of network services,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-21-security-of-network-services/
+A.8.22,Network segregation for security,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-22-network-segregation-for-security/
+A.8.23,Web filtering to reduce malicious website exposure,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-23-web-filtering-to-reduce-malicious-website-exposure/
+A.8.24,Effective use of cryptography and key management,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-24-effective-use-of-cryptography-and-key-management/
+A.8.25,Secure development lifecycle,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-25-secure-development-lifecycle/
+A.8.26,Defining security requirements for applications,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-26-defining-security-requirements-for-applications/
+A.8.27,Secure system architecture and engineering principles,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-27-secure-system-architecture-and-engineering-princip/
+A.8.28,Secure coding practices in software development,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-28-secure-coding-practices-in-software-development/
+A.8.29,Security testing in development and acceptance,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-29-security-testing-in-development-and-acceptance/
+A.8.30,Management of outsourced system development,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-30-management-of-outsourced-system-development/
+A.8.31,"Separation of development, test, and production environments",Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-31-separation-of-development-test-and-production-envi/
+A.8.32,Change management procedures for information systems,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-32-change-management-procedures-for-information-syste/
+A.8.33,Test information selection and protection,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-33-test-information-selection-and-protection/
+A.8.34,Protection of information systems during audits,Technological,,,,https://controlstack.au/controls/iso27001-annex-a-8-34-protection-of-information-systems-during-audits/
